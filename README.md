@@ -16,4 +16,3 @@ Laboratorios de la guía técnica *Interfaces funcionales en Java* (Java 21 LTS)
 | `lab3` | Calculadora con estrategias | Reemplaza un `switch` por un mapa de `DoubleBinaryOperator`. |
 | `lab4` | Motor de promociones | Reglas de negocio configurables usando solo interfaces funcionales. |
 
-hecho por Juan Sebastian Gonzalez y Miguel Angel Giraldo.
